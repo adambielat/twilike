@@ -1,4 +1,4 @@
-## 𝗧𝗪𝗜𝗟𝗜𝗞𝗘 ##
+# 𝗧𝗪𝗜𝗟𝗜𝗞𝗘 #
 
 <br><br>*Twilike* is a selenium-based tool used to automatically like Twitter posts under a specific search. This can be a hashtag, or the term "COD".<br>
 <br><br>
