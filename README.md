@@ -1,7 +1,9 @@
 # 𝗧𝗪𝗜𝗟𝗜𝗞𝗘 #
 
 <br><br>__Twilike__ is a selenium-based tool used to automatically like Twitter posts under a specific search. <br>
-__This can be a hashtag, or the term "COD".__
+__This can be a hashtag, or the term "COD".__<br><br>
+
+__P.S - CHANGE THE USER AND PASS IN THE .PY FILE AT LINE 15 AND 16__
 
 <br><br><br>
 [​🇽​] - 𝐔𝐧𝐝𝐞𝐭𝐞𝐜𝐭𝐞𝐝 𝐜𝐡𝐫𝐨𝐦𝐞𝐝𝐫𝐢𝐯𝐞𝐫 & 𝐝𝐞𝐥𝐚𝐲𝐬 𝐭𝐨 𝐞𝐧𝐬𝐮𝐫𝐞 𝟎 𝐛𝐚𝐧𝐬. 🛡️<br>
