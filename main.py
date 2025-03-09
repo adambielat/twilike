@@ -5,10 +5,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support import expected_conditions as EC
 import time
-import time
 from colorama import init, Fore
 import logging
-import pandas as pd
 import undetected_chromedriver as uc
 import os
 
