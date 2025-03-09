@@ -1,6 +1,6 @@
 # 𝗧𝗪𝗜𝗟𝗜𝗞𝗘 #
 
-<br><br>__Twilike__ is a selenium-based tool used to automatically like Twitter posts under a specific search. <br>
+<br>__Twilike__ is a selenium-based tool used to automatically like Twitter posts under a specific search. <br>
 __This can be a hashtag, or the term "COD".__
 
 <br><br>
